@@ -12,5 +12,5 @@ console.log("Balance of the address",balance);
 
 const balanceWoi = ethers.utils.parseEther(balance);
 console.log("Balance in ether",balanceWoi);
-queryBlockchain();
 }
+queryBlockchain();
