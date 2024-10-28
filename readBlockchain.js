@@ -14,3 +14,6 @@ const balanceWoi = ethers.utils.parseEther(balance);
 console.log("Balance in ether",balanceWoi);
 }
 queryBlockchain();
+
+//alternative of infuraa
+
