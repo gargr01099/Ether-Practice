@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "start": "nodemon readBlockchain.js"
+  },
   "devDependencies": {
+    "nodemon": "^3.0.1",
     "ethers": "^6.13.4"
   }
 }
